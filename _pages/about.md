@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests includes computer vision and resource-constrained machine learning technology. 
+Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests includes computer vision and resource-constrained machine learning technology. He previously obtained first-class honorable degree at Queen Marry Univerity of London for bachelor.
 
 He also works at Intel Labs China as a research intern now, aiming to contribute to omni-scale high-performance intelligent vision systems, which is led by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
 
@@ -48,12 +48,15 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2022.12 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
+- *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2022.12(now)*, Intel Labs China. Research Intern, supervised by Anbang Yao.
+- *2021.11 - 2022.07*, MEGVII Inc, China. Research Intern, supervised by Yu Zhao.
+- *2021.04 - 2021.11*, Peking University, China. Visit Student, supervised by Yang Liu.
+- *2019.09 - 2019.11*, ByteDance Inc, China. Data Engineer Intern.
