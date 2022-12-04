@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications, supervised by Meina Song. His research interests includes computer vision and resource-constrained machine learning technology. He also works at Intel Labs China as a research intern now, aiming to contribute to omni-scale high-performance intelligent vision systems, which is led by <a href='https://yaoanbang.github.io/'>Anbang Yao.</a> Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
+Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications, supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests includes computer vision and resource-constrained machine learning technology. 
+
+He also works at Intel Labs China as a research intern now, aiming to contribute to omni-scale high-performance intelligent vision systems, which is led by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
 
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 A frist co-author paper on Video SSL has been accepted as an **oral** paper by ACCV 2022.  
-- *2022.06*: &nbsp;🎉🎉 A frist co-author paper on high-performance parameter-free regulariziation method for action recognitionfew-shot learning has been accepted by ACM MM 2022 .  
+- *2022.12*: &nbsp;🎉🎉 A frist co-author paper on Video SSL has been accepted as an **Best Paper Honorable Mentioned** by ACCV 2022.  
+- *2022.07*: &nbsp;🎉🎉 A frist co-author paper on high-performance parameter-free regulariziation method for action recognition has been accepted by ACM MM 2022 .  
 - *2022.03*: &nbsp;🎉🎉 A frist author paper on few-shot learning has been accepted by ICPR 2022 . 
 
 # 📝 Publications 
