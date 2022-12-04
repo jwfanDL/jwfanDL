@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fan Jiawei"
+  name             : "Fan Jiawei (范家伟)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing University of Posts and Telecommunications"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
