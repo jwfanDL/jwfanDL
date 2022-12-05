@@ -43,8 +43,9 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 </div> -->
 
 ## 2022
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- Episodic Projection Network for Out-of-Distribution Detection in Few-shot Learning.\\ **Jiawei Fan**, Zhonghong Ou, Xie Yu, Junwei Yang, Shigeng Wang, Xiaoyang Kang, Hongxing Zhang, Meina Song \\ 26th International Conference on Pattern Recognition (ICPR 2022)
+- [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). \textcolor{red}{(**Oral and Best Paper Honorable Mentioned**)}
+- [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), Jiawei Fan, Yu Zhao, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
+- [Episodic Projection Network for Out-of-Distribution Detection in Few-shot Learning.](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956184/1IHqfHmafKM), **Jiawei Fan**, Zhonghong Ou, Xie Yu, Junwei Yang, Shigeng Wang, Xiaoyang Kang, Hongxing Zhang, Meina Song, 26th International Conference on Pattern Recognition (ICPR 2022).
 
 
 # 📖 Educations
