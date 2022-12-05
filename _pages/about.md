@@ -45,7 +45,7 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2022.11* Best Paper Honorable Mentioned in ACCV 2022.
+- *2022.12* Best Paper Honorable Mentioned in ACCV 2022.
 - *2022.04* MEGVII Outstanding Interns.
 - *2021.10* First Class Scholorship of 2021.
 - *2021.05* Win 7th in the 3rd Person in Context workshop in CVPR 2021.
@@ -62,9 +62,9 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 - *2020.09 - 2022.12 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
 - *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- *2022.07*, A informal talk about his recent work - DTR for action recognition at Peking University. 
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2022.07 - 2022.12(now)*, Intel Labs China. Research Intern, supervised by Anbang Yao.
