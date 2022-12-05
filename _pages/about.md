@@ -54,7 +54,7 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 - *2019.10* Tongding Enterprise Scholarship of 2019. (1 student per department)
 - *2019.01* First Prize in Graduate Innovation and Entrepreneurship Competition. (as an undergraduate student)
 - *2018.10* Hengtong Enterprise Scholarship of 2018.
-- *2018.10* National Encouragement Scholarship of 2017.
+- *2017.10* National Encouragement Scholarship of 2017.
 
 # 📖 Educations
 - *2020.09 - 2022.12 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
