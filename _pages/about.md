@@ -46,7 +46,8 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 
 # 🎖 Honors and Awards
 - *2022.11* Best Paper Honorable Mentioned in ACCV 2022.
-- *2021.11* First Class Scholorship of 2021.
+- *2022.04* MEGVII Outstanding Interns.
+- *2021.10* First Class Scholorship of 2021.
 - *2021.01* First Prize in Graduate Innovation and Entrepreneurship Competition.
 - *2020.10* First Class Scholorship of 2020.
 - *2020.06* BUPT Star of Youth. (10 students per year)
