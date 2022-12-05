@@ -19,7 +19,7 @@ redirect_from:
 
 Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests include computer vision and resource-constrained machine learning technology. He previously obtained **first-class honorable degree** at Queen Marry Univerity of London for bachelor. He has over 7 patents applications got granted, which have been used by NKRDP or real-world applications.
 
-He also works at Intel Labs China <img src='images/intel.png', style='width: 4em;'> as a research intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. He aims to construct novel Many-to-One distillation method to contribute to omni-scale high-performance intelligent vision systems. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
+He also works at Intel Labs China <img src='images/intel.png' style='width: 4em;'> as a research intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. He aims to construct novel Many-to-One distillation method to contribute to omni-scale high-performance intelligent vision systems. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
 
 
 # 🔥 News
