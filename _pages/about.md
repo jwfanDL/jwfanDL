@@ -63,7 +63,7 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 - *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
 # 💬 Invited Talks
-- *2022.07*, A informal talk about his recent work - DTR for action recognition at Peking University. 
+- *2022.07*, An informal talk about his recent work - DTR for action recognition at Peking University. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
