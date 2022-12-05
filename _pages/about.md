@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests include computer vision and resource-constrained machine learning technology. He previously obtained first-class honorable degree at Queen Marry Univerity of London for bachelor. He has over 7 patents applications got granted, which has been used by NKRDP or real-world applications.
+Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests include computer vision and resource-constrained machine learning technology. He previously obtained first-class honorable degree at Queen Marry Univerity of London for bachelor. He has over 7 patents applications got granted, which have been used by NKRDP or real-world applications.
 
 He also works at Intel Labs China as a research intern now, aiming to contribute to omni-scale high-performance intelligent vision systems, which is led by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
 
@@ -30,7 +30,7 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,9 +40,11 @@ He also works at Intel Labs China as a research intern now, aiming to contribute
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
+## 2022
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Episodic Projection Network for Out-of-Distribution Detection in Few-shot Learning.\\ **Jiawei Fan**, Zhonghong Ou, Xie Yu, Junwei Yang, Shigeng Wang, Xiaoyang Kang, Hongxing Zhang, Meina Song \\ 26th International Conference on Pattern Recognition (ICPR 2022)
 
 
 # 📖 Educations
