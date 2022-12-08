@@ -24,7 +24,7 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 
 # 🔥 News
 
-- *2022.12*: &nbsp; A frist co-author paper on Video SSL has been accepted as an **Best Paper Honorable Mentioned** by ACCV 2022.  
+- *2022.12*: &nbsp; A frist co-author paper on Video SSL has been accepted as an **Best Paper Award Honorable Mentioned** by ACCV 2022.  
 - *2022.07*: &nbsp; A frist author paper on high-performance parameter-free regulariziation method for action recognition has been accepted by ACM MM 2022 .  
 - *2022.03*: &nbsp; A frist author paper on few-shot learning has been accepted by ICPR 2022. 
 - *2021.05*: &nbsp; Rank 7th in the 3rd Person in Context workshop in CVPR 2021.
@@ -43,7 +43,7 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 </div> -->
 
 ## 2022
-- [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Honorable Mentioned)</b></font>
+- [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
 - [Episodic Projection Network for Out-of-Distribution Detection in Few-shot Learning.](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956184/1IHqfHmafKM), **Jiawei Fan**, Zhonghong Ou, Xie Yu, Junwei Yang, Shigeng Wang, Xiaoyang Kang, Hongxing Zhang, Meina Song, 26th International Conference on Pattern Recognition (ICPR 2022).
 
