@@ -54,7 +54,8 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 - *2020.09 - 2022.12 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
 - *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards -->
+# Honors and Awards
 - *2022.12* Best Paper Honorable Mentioned in ACCV 2022.
 - *2022.04* MEGVII Outstanding Interns.
 - *2021.10* First Class Scholorship of 2021.
