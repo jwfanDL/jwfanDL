@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fan Jiawei"
+title                    : "Jiawei Fan"
 description              : ""
 repository               : "jwfanDL/jwfanDL.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fan Jiawei (范家伟)"
+  name             : "Jiawei Fan (范家伟)"
   avatar           : "images/81670212883_.pic_hd.jpg"
   bio              : 
   location         : "Beijing, China"
