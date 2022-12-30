@@ -65,14 +65,13 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 - *2019.01* First Prize in Graduate Innovation and Entrepreneurship Competition. (as an undergraduate student)
 - *2018.10* Hengtong Enterprise Scholarship of 2018.
 - *2017.10* National Encouragement Scholarship of 2017.
-- 
 
 # 💬 Invited Talks
 - *2022.07*, An informal talk about his recent work - DTR for action recognition at Peking University. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - 2022.12(now)*, Intel Labs China. Research Intern, supervised by Anbang Yao.
-- *2021.12 - 2022.07*, MEGVII Inc, China. Research Intern, supervised by Yu Zhao.
-- *2021.04 - 2021.10*, Peking University, China. Visit Student, supervised by Yang Liu.
-- *2019.09 - 2019.11*, ByteDance Inc, China. Data Engineer Intern.
+- *2022.07 - 2022.12(now)*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
+- *2021.12 - 2022.07*, MEGVII Inc, China. <img src='images/megvii.png' style='width: 2.5em;'> Research Intern, supervised by Yu Zhao.
+- *2021.04 - 2021.10*, Peking University, China. <img src='images/peking_university.png' style='width: 2.5em;'> Visit Student, supervised by Yang Liu.
+- *2019.09 - 2019.11*, ByteDance Inc, China. <img src='images/bytedance.jpg' style='width: 2.5em;'> Data Engineer Intern.
