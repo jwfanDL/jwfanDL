@@ -19,7 +19,7 @@ redirect_from:
 
 Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests include computer vision and resource-constrained machine learning technology. He previously obtained **first-class honorable degree** at Queen Marry Univerity of London for bachelor. He has over 7 patents applications got granted, which have been used by NKRDP or real-world applications.
 
-He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as a research intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. He aims to construct novel Many-to-One distillation method to contribute to omni-scale high-performance intelligent vision systems. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
+He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as a research intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. He aims to construct novel distillation method to contribute to omni-scale high-performance intelligent vision systems. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
 
 
 # 🔥 News
@@ -49,7 +49,7 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 
 
 # 📖 Educations
-- *2020.09 - 2022.12 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
+- *2020.09 - 2023.04 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
 - *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
 # 🎖 Honors and Awards
@@ -71,7 +71,7 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - 2022.12(now)*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
+- *2022.07 - 2023.04(now)*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
 - *2021.12 - 2022.07*, MEGVII Inc, China. <img src='images/megvii.png' style='width: 3.5em;'> Research Intern, supervised by Yu Zhao.
 - *2021.04 - 2021.10*, Peking University, China. <img src='images/peking_university.png' style='width: 4.0em;'> Visit Student, supervised by Yang Liu.
 - *2019.09 - 2019.11*, ByteDance Inc, China. <img src='images/bytedance.jpg' style='width: 4.3em;'> Data Engineer Intern.
