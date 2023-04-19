@@ -24,9 +24,9 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 
 # 🔥 News
 
-- *2022.12*: &nbsp; A frist co-author paper on Video SSL has been accepted as an **Best Paper Award Honorable Mentioned** by ACCV 2022.  
-- *2022.07*: &nbsp; A frist author paper on high-performance parameter-free regulariziation method for action recognition has been accepted by ACM MM 2022 .  
-- *2022.03*: &nbsp; A frist author paper on few-shot learning has been accepted by ICPR 2022. 
+- *2022.12*: &nbsp; A first co-author paper on Video SSL has been accepted as an **Best Paper Award Honorable Mentioned** by ACCV 2022.  
+- *2022.07*: &nbsp; A first author paper on high-performance parameter-free regulariziation method for action recognition has been accepted by ACM MM 2022 .  
+- *2022.03*: &nbsp; A first author paper on few-shot learning has been accepted by ICPR 2022. 
 - *2021.05*: &nbsp; Rank 7th in the 3rd Person in Context workshop in CVPR 2021.
 
 # 📝 Publications 
