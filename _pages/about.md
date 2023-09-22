@@ -44,7 +44,7 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 </div> -->
 
 ## 2023
-- [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation][https://https://jwfandl.github.io/], **Jiawei Fan\***, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao, Thirty-seventh Conference on Neural Information Processing Systems (NeuriPS 2023)
+- [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://https://jwfandl.github.io/), **Jiawei Fan\***, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao, Thirty-seventh Conference on Neural Information Processing Systems (NeuriPS 2023)
 ## 2022
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
@@ -74,7 +74,7 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - 2023.04(now)*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
+- *2022.07 - now, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
 - *2021.12 - 2022.07*, MEGVII Inc, China. <img src='images/megvii.png' style='width: 3.5em;'> Research Intern, supervised by Yu Zhao.
 - *2021.04 - 2021.10*, Peking University, China. <img src='images/peking_university.png' style='width: 4.0em;'> Visit Student, supervised by Yang Liu.
 - *2019.09 - 2019.11*, ByteDance Inc, China. <img src='images/bytedance.jpg' style='width: 4.3em;'> Data Engineer Intern.
