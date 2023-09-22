@@ -53,6 +53,9 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#
 
+</div>
+</div>
+
 
 ## 2022
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du#, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
