@@ -54,7 +54,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 
 # 📖 Educations
-- *2020.09 - 2023.04 (now)*, Master candidate at Beijing University of Posts and Telecommunications.
+- *2020.09 - 2023.06*, Master at Beijing University of Posts and Telecommunications.
 - *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
 # 🎖 Honors and Awards
