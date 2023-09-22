@@ -42,7 +42,9 @@ He obtained master degree of computer science in Beijing University of Posts and
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
 (* Equal contribution, # Corresponding author)
+
 ## 2023
 - [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#, Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)
 ## 2022
