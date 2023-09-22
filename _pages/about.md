@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiawei Fan is a master stduent of Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. His research interests include computer vision and resource-constrained machine learning technology. He previously obtained **first-class honorable degree** at Queen Marry Univerity of London for bachelor. He has over 7 patents applications got granted, which have been used by NKRDP or real-world applications.
+Jiawei Fan works for Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as an AI research intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. He aims to construct novel distillation method to contribute to omni-scale high-performance intelligent vision systems. Previously, he was an intern at MEGVII and obtain outstanding intern as he design a high-performance parameter-free regulariziation method for action recognition.
 
-He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as a research intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. He aims to construct novel distillation method to contribute to omni-scale high-performance intelligent vision systems. Before that, he was an intern at MEGVII and obtain **outstanding intern** as he design a high-performance parameter-free regulariziation method for action recognition.
+He obtained master degree of computer science in Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. Before that, he obtained **first-class honorable degree** of bachelor of science and engineering. when he graduated from joint programme of Beijing University of Posts and Telecommunications (BUPT) and Queen Marry University of London (QMUL).
 
 
 # 🔥 News
@@ -42,12 +42,12 @@ He also works at Intel Labs China <img src='images/intel.jpg' style='width: 2.5e
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
+(* Equal contribution, # Corresponding author)
 ## 2023
-- [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#, Thirty-seventh Conference on Neural Information Processing Systems (NeuriPS 2023)
+- [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#, Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)
 ## 2022
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du#, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
-- [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\# \#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
+- [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
 - [Episodic Projection Network for Out-of-Distribution Detection in Few-shot Learning.](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956184/1IHqfHmafKM), **Jiawei Fan**, Zhonghong Ou\#, Xie Yu, Junwei Yang, Shigeng Wang, Xiaoyang Kang, Hongxing Zhang, Meina Song, 26th International Conference on Pattern Recognition (ICPR 2022).
 
 
