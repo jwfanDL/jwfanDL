@@ -46,7 +46,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 (* Equal contribution, # Corresponding author)
 
 ## 2023
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/afdcd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://jwfandl.github.io/) 
