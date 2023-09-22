@@ -46,10 +46,14 @@ He obtained master degree of computer science in Beijing University of Posts and
 (* Equal contribution, # Corresponding author)
 
 ## 2023
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#, Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
-- 
+
+[Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://jwfandl.github.io/) 
+
+**Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#
+
+
 ## 2022
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du#, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
