@@ -63,6 +63,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 - *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
 
 # 🎖 Honors and Awards
+- *2023.11* Intel Labs China DRA Award.
 - *2022.12* Best Paper Honorable Mentioned in ACCV 2022.
 - *2022.04* MEGVII Outstanding Interns.
 - *2021.10* First Class Scholorship of 2021.
