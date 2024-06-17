@@ -80,7 +80,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experieces
-- *2022.07 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
+- *2022.07 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Researcher, supervised by Anbang Yao.
 - *2021.12 - 2022.07*, MEGVII Inc, China. <img src='images/megvii.png' style='width: 3.5em;'> Research Intern, supervised by Yu Zhao.
 - *2021.04 - 2021.10*, Peking University, China. <img src='images/peking_university.png' style='width: 4.0em;'> Visit Student, supervised by Yang Liu.
 - *2019.09 - 2019.11*, ByteDance Inc, China. <img src='images/bytedance.jpg' style='width: 4.3em;'> Data Engineer Intern.
