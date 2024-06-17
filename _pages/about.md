@@ -31,17 +31,6 @@ He obtained master degree of computer science in Beijing University of Posts and
 - *2021.05*: &nbsp; Rank 7th in the 3rd Person in Context workshop in CVPR 2021.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 (* Equal contribution, # Corresponding author)
 
@@ -53,7 +42,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/afdcd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://openreview.net/forum?id=caUhYUVsLl
+[Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://openreview.net/forum?id=caUhYUVsLl)
 
 **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#
 
