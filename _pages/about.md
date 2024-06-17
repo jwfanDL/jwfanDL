@@ -50,14 +50,17 @@ He obtained master degree of computer science in Beijing University of Posts and
 - [Morse: Faster Sampling yet with More Steps for Accelerating Diffusion Models Universally](https://jwfandl.github.io/), Chao Li, **Jiawei Fan**, Anbang Yao\#, Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024 *Under Review*).
 
 ## Selected Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/afdcd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://openreview.net/forum?id=caUhYUVsLl
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#
 
+[**Project**](https://github.com/OSVAI/Af-DCD)
+- Af-DCD is a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation. 
+</div>
+</div>
 
 - [Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation](https://openreview.net/forum?id=caUhYUVsLl), **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#, Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
