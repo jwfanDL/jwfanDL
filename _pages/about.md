@@ -34,11 +34,11 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 (* Equal contribution, # Corresponding author)
 
-## Recent Manuscripts
-- [ScaleKD: Strong Vision Transformer Could Be Excellent Teachers](https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Anbang Yao\#, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS 2024 *Under Review*).
-- [Morse: Faster Sampling yet with More Steps for Accelerating Diffusion Models Universally](https://jwfandl.github.io/), Chao Li, **Jiawei Fan**, Anbang Yao\#, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS 2024 *Under Review*).
 
 ## Selected Publications
+- [ScaleKD: Strong Vision Transformer Could Be Excellent Teachers](https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Anbang Yao\#, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/afdcd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
