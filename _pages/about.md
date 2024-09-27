@@ -23,7 +23,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 
 # 🔥 News
-
+- *2024.09*: &nbsp; A first-author paper on exploring KD method for transferring the scalability of pre-trained ViTs to various architectures has been accepted to NeurIPS 2024.
 - *2023.09*: &nbsp; A first-author paper on efficient knowledge distillation for semantic segmentation has been accepted to NeurIPS 2023.
 - *2022.12*: &nbsp; A first co-author paper on Video SSL has been accepted as a **Best Paper Award Honorable Mentioned** to ACCV 2022.  
 - *2022.07*: &nbsp; A first-author paper on high-performance parameter-free regularization method for action recognition has been accepted to ACM MM 2022.  
