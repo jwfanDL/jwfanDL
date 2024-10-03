@@ -76,7 +76,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 - *2017.10* National Encouragement Scholarship of 2017.
 
 # 💬 Academic service
-Reviewer: ACCV 2022, NeurIPS 2024
+Reviewer:  ICLR 2025, NeurIPS 2024, AISTAT 2025, ACCV 2022.
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
