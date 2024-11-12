@@ -36,6 +36,19 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 
 ## Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/ScaleKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[ScaleKD: Strong Vision Transformer Could Be Excellent Teachers](https://arxiv.org/pdf/2411.06786)
+
+**Jiawei Fan**, Chao Li, Xiaolong Liu, Anbang Yao\#
+
+[**Project**](https://github.com/deep-optimization/ScaleKD)
+It is the first work to explore how to transfer the scalable property of pre-trained large vision transformer models to smaller target models.
+- ScaleKD could be used as a more efficient alternative to the time-intensive pre-training paradigm for any target student model on large-scale datasets if a strong pre-trained ViT is available 
+</div>
+</div>
+
 - [ScaleKD: Strong Vision Transformer Could Be Excellent Teachers](https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Anbang Yao\#, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
 
 
