@@ -36,7 +36,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 
 ## Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/ScaleKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ScaleKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[ScaleKD: Strong Vision Transformer Could Be Excellent Teachers](https://arxiv.org/pdf/2411.06786)
@@ -49,7 +49,7 @@ It is the first work to explore how to transfer the scalable property of pre-tra
 </div>
 </div>
 
-- [ScaleKD: Strong Vision Transformer Could Be Excellent Teachers](https://jwfandl.github.io/), **Jiawei Fan**, Chao Li, Xiaolong Liu, Anbang Yao\#, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/afdcd.png' alt="sym" width="100%"></div></div>
