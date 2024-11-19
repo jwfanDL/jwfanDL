@@ -43,7 +43,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 **Jiawei Fan**, Chao Li, Xiaolong Liu, Anbang Yao\#
 
-[**Project**](https://github.com/deep-optimization/ScaleKD)
+[**Code**](https://github.com/deep-optimization/ScaleKD) **|** [**Project**](https://deep-optimization.github.io/scalekd/)
 - It is the first work to explore how to transfer the scalable property of pre-trained large vision transformer models to smaller target models.
 - ScaleKD could be used as a more efficient alternative to the time-intensive pre-training paradigm for any target student model on large-scale datasets.
 </div>
@@ -59,7 +59,7 @@ He obtained master degree of computer science in Beijing University of Posts and
 
 **Jiawei Fan**, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao\#
 
-[**Project**](https://github.com/OSVAI/Af-DCD)
+[**Code**](https://github.com/OSVAI/Af-DCD)
 - Af-DCD is a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation. 
 </div>
 </div>
