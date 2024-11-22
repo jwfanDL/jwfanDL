@@ -25,7 +25,7 @@ author:
   avatar           : "images/81670212883_.pic_hd.jpg"
   bio              : 
   location         : "Beijing, China"
-  employer         :
+  employer         :  "Intel Labs China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7H674NUAAAAJ&hl=en"
   email            : "jiawei.fan@intel.com"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/jwfanDL"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-5487-2109"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
