@@ -25,7 +25,7 @@ author:
   avatar           : "images/81670212883_.pic_hd.jpg"
   bio              : 
   location         : "Beijing, China"
-  employer         :  "Intel Labs China"
+  employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7H674NUAAAAJ&hl=en"
   email            : "jiawei.fan@intel.com"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jwfanDL"
+  github           : "jwfanDL"
   google_plus      :
   keybase          :
   instagram        :
